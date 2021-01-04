@@ -1,0 +1,14 @@
+{
+  "name": "example-grunt-project",
+  "version": "1.0.0",
+  "description": "An example Grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Wellman <danwellman@hotmail.com> (danwellman.co.uk)",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}

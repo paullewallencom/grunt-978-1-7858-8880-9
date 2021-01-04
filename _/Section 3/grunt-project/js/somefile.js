@@ -1,0 +1,3 @@
+﻿// some file
+
+var someVariable;

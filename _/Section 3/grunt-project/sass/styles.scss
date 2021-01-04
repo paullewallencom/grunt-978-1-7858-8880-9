@@ -1,0 +1,10 @@
+﻿$theme-color-light: #fee996;
+$theme-color-dark: #b18f07;
+
+body {
+    background-color: $theme-color-light;
+
+    .banner {
+        background-color: $theme-color-dark;
+    }
+}
